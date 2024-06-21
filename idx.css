@@ -11,6 +11,9 @@ body{
     height: auto;
     width: 30px;
     border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .slidelink:hover{
