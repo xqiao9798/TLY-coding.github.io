@@ -7,7 +7,11 @@ body{
     width: 300px;
 }
 .slidelink{
-    background-color: rgba(144, 125, 255, 0.466);  
+    background-color: rgba(144, 125, 255, 0.466);
+    height: auto;
+    width: 30px;
+    border-radius: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .slidelink:hover{
     background-color: rgba(144, 125, 255, 0.966);
