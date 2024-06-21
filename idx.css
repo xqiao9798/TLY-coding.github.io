@@ -13,7 +13,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Times New Roman', Times, serif;
 }
 .slidelink:hover{
     background-color: rgba(144, 125, 255, 0.966);
@@ -23,7 +23,7 @@ body{
     width: 70px;
     height: 70px;
     margin-left: 10px;
-    margin-right: 15px;
+    margin-right: 20px;
 }
 #slidediv{
     background-color: rgba(116, 92, 255, 0.466);
