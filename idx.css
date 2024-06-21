@@ -14,7 +14,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Microsoft JhengHei';
+    font-family: 'DFKai-sb';
 }
 .slidelink:hover{
     background-color: rgba(144, 125, 255, 0.966);
@@ -34,5 +34,5 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Microsoft JhengHei';
+    font-family: 'DFKai-sb';
 }
