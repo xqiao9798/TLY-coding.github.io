@@ -1,0 +1,8 @@
+body{
+    background-color: rgba(108, 83, 255, 0.788);
+}
+#slide{
+    background-color: rgba(144, 125, 255, 0.767);
+    height: 100%;
+    width: 300px;
+}
