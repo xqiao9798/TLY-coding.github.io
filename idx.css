@@ -3,6 +3,13 @@ body{
 }
 #slide{
     background-color: rgba(144, 125, 255, 0.767);
-    height: 100%;
+    height: 1000px;
     width: 300px;
+}
+.slidelink{
+    background-color: rgba(87, 85, 255, 0.863);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+}
+.slidelink:hover{
+    background-color: rgba(59, 56, 255, 0.979);
 }
