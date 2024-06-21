@@ -21,3 +21,8 @@ body{
 #slideicon{
     border-radius:50%;
 }
+#slidediv{
+    background-color: rgba(144, 125, 255, 0.466);
+    height: 40px;
+    border-radius: 10px;
+}
