@@ -27,8 +27,6 @@ body{
     background-color: rgba(116, 92, 255, 0.466);
     height: 70px;
     border-radius: 10px;
-}
-#slidefont{
     font: 20px;
     display: flex;
     justify-content: center;
