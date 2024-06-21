@@ -5,15 +5,17 @@ body{
     -moz-user-select:none;  /* for Mozilla、Firefox */
 }
 #slide{
-    background-color: rgba(144, 125, 255, 0.164);
+    /* background-color: rgba(144, 125, 255, 0.164); */
     height: 455px;
     width: 300px;
     border-radius: 10px;
     float: left;
+    margin-left: 0px;
 }
 .slidelink{
     background-color: rgba(144, 125, 255, 0.164);
     height: 55px;
+    width: 300px;
     border-radius: 10px;
     display: flex;
     justify-content: center;
@@ -23,6 +25,7 @@ body{
 }
 .slidelink:hover{
     background-color: rgba(144, 125, 255, 0.493);
+    width: 350px;
 }
 #slideicon{
     border-radius:50%;
