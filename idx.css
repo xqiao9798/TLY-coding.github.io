@@ -3,8 +3,9 @@ body{
 }
 #slide{
     background-color: rgba(144, 125, 255, 0.466);
-    height: 600px;
+    height: 500px;
     width: 300px;
+    border-radius: 10px;
 }
 .slidelink{
     background-color: rgba(144, 125, 255, 0.466);
@@ -13,7 +14,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Microsoft JhengHei';
 }
 .slidelink:hover{
     background-color: rgba(144, 125, 255, 0.966);
@@ -33,5 +34,5 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Microsoft JhengHei';
 }
