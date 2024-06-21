@@ -8,7 +8,7 @@ body{
 }
 .slidelink{
     background-color: rgba(144, 125, 255, 0.466);
-    height: 30px;
+    height: 40px;
     border-radius: 10px;
     display: flex;
     justify-content: center;
@@ -17,4 +17,7 @@ body{
 }
 .slidelink:hover{
     background-color: rgba(144, 125, 255, 0.966);
+}
+#slideicon{
+    border-radius:50%;
 }
