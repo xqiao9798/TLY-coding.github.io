@@ -14,7 +14,7 @@ body{
     margin-left: 0px;
 }
 .slidelink{
-    background-color: rgba(144, 125, 255, 0.164);
+    background-color: rgba(144, 125, 255, 0.089);
     height: 55px;
     width: 270px;
     border-radius: 10px;
@@ -25,7 +25,7 @@ body{
     font-size: 20px;
 }
 .slidelink:hover{
-    background-color: rgba(144, 125, 255, 0.493);
+    background-color: rgba(144, 125, 255, 0.411);
     width: 330px;
 }
 #slideicon{
@@ -36,7 +36,7 @@ body{
     margin-right: 20px;
 }
 #slidediv{
-    background-color: rgba(116, 92, 255, 0.349);
+    background-color: rgba(116, 92, 255, 0.185);
     height: 70px;
     border-radius: 10px;
     font-size: 30px;
