@@ -8,9 +8,8 @@ body{
 }
 .slidelink{
     background-color: rgba(144, 125, 255, 0.466);
-    height: auto;
-    width: 30px;
-    border-radius: 15px;
+    height: 30px;
+    border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
