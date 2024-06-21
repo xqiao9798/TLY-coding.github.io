@@ -9,12 +9,13 @@ body{
 }
 .slidelink{
     background-color: rgba(144, 125, 255, 0.466);
-    height: 55px;
+    height: 40px;
     border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: 'DFKai-sb';
+    font-size: 20px;
 }
 .slidelink:hover{
     background-color: rgba(144, 125, 255, 0.966);
@@ -30,7 +31,7 @@ body{
     background-color: rgba(116, 92, 255, 0.466);
     height: 70px;
     border-radius: 10px;
-    font-size: 20px;
+    font-size: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
