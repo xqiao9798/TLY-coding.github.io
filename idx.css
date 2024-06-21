@@ -20,11 +20,18 @@ body{
 }
 #slideicon{
     border-radius:50%;
-    width: 50%;
-    height: 50%;
+    width: 70px;
+    height: 70px;
 }
 #slidediv{
-    background-color: rgba(144, 125, 255, 0.466);
-    height: 40px;
+    background-color: rgba(116, 92, 255, 0.466);
+    height: 70px;
     border-radius: 10px;
+}
+#slidefont{
+    font: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
