@@ -2,13 +2,13 @@ body{
     background-color: rgb(182, 238, 255);
 }
 #slide{
-    background-color: rgba(144, 125, 255, 0.466);
-    height: 500px;
+    background-color: rgba(144, 125, 255, 0.164);
+    height: 455px;
     width: 300px;
     border-radius: 10px;
 }
 .slidelink{
-    background-color: rgba(144, 125, 255, 0.466);
+    background-color: rgba(144, 125, 255, 0.164);
     height: 55px;
     border-radius: 10px;
     display: flex;
@@ -18,7 +18,7 @@ body{
     font-size: 20px;
 }
 .slidelink:hover{
-    background-color: rgba(144, 125, 255, 0.966);
+    background-color: rgba(144, 125, 255, 0.493);
 }
 #slideicon{
     border-radius:50%;
@@ -28,7 +28,7 @@ body{
     margin-right: 20px;
 }
 #slidediv{
-    background-color: rgba(116, 92, 255, 0.466);
+    background-color: rgba(116, 92, 255, 0.349);
     height: 70px;
     border-radius: 10px;
     font-size: 30px;
