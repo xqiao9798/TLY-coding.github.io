@@ -144,6 +144,13 @@ body{
     font-family: 'lxgw';
 }
 
+.datatitle {
+    letter-spacing: 5px;
+    color: #12123a;
+    font-size: 25px;
+    margin-left: 25px;
+    font-family: 'lxgw';
+}
 
 .school{
     width: 280px;
@@ -173,7 +180,7 @@ body{
 }
 .schooltitle {
     letter-spacing: 5px;
-    color: #1a2b5a;
+    color: #121f42;
     font-size: 25px;
     margin-left: 25px;
     font-family: 'lxgw';
