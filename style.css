@@ -8,7 +8,7 @@ body{
 
 .box{
     width: 350px;
-    height: 280px;
+    height: 230px;
     flex-shrink: 0;
     border-radius: 10px; /*原角*/
     background: #544fa3cb;
@@ -23,17 +23,17 @@ body{
     height: 130px;
     position: absolute;
     left: 50px;
-    top:50px;
+    top: 30px;
     border-radius: 10px;
 }
 #name{
-    font-size: 40px;
+    font-size: 50px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(178, 203, 255);
     position: absolute;
     left: 200px;
-    top: 90px;
-    letter-spacing: 15px;
+    top: 70px;
+    letter-spacing: 20px;
 }
 
 #discord_icon,#github_icon,#instergram_icon,#youtube_icon,#mail_icon,#shoting_icon{
@@ -44,14 +44,14 @@ body{
 #discord_link{
     position:  absolute;
     top: 200px;
-    left: 50px;
+    left: 60px;
     display: inline-block;
 }
 
 #github_link{
     position: absolute;
     top: 200px;
-    left: 100px;
+    left: 120px;
     display: inline-block;
 
 }
@@ -59,7 +59,7 @@ body{
 #instergram_link{
     position: absolute;
     top: 200px;
-    left: 150px;
+    left: 180px;
     display: inline-block;
 }
 
@@ -67,7 +67,7 @@ body{
 #mail_link{
     position:  absolute;
     top: 200px;
-    left: 200px;
+    left: 240px;
     display: inline-block;
 }
 
