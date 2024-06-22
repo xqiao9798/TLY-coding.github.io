@@ -99,12 +99,12 @@ body{
     stroke: #ff8aa3;
 }
 
-.box{
+.data{
     width: 700px;
     height: 400px;
     flex-shrink: 0;
     border-radius: 10px;
-    background: #e195ffcb;
+    background: #b195ffcb;
     position: absolute;
     left: 550px;
     top: 200px;
@@ -119,4 +119,5 @@ body{
 .dataword {
     letter-spacing: 20px;
     position: absolute;
+    color: #12133b;
 }
