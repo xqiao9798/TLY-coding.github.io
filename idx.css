@@ -25,8 +25,8 @@ body{
     font-size: 20px;
 }
 .slidelink:hover{
-    background-color: rgba(144, 125, 255, 0.411);
-    width: 330px;
+    background-color: rgba(144, 125, 255, 0.493);
+    width: 300px;
 }
 #slideicon{
     border-radius:50%;
@@ -36,7 +36,7 @@ body{
     margin-right: 20px;
 }
 #slidediv{
-    background-color: rgba(116, 92, 255, 0.185);
+    background-color: rgb(116 92 255 / 10%);
     height: 70px;
     border-radius: 10px;
     font-size: 30px;
