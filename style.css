@@ -40,10 +40,9 @@ body{
     letter-spacing: 20px;
 }
 
-#discord_icon,#github_icon,#instergram_icon,#youtube_icon,#mail_icon,#shoting_icon{
+#discord_icon,#github_icon,#instergram_icon,#mail_icon{
     width: 30px;
     height: 30px;
-    background-color: #5d7aa1;
 }
 
 #discord_link{
@@ -79,19 +78,24 @@ body{
 #hoverArea {
     transition: stroke 0.3s; /* 0.3s的漸變時間 */
 }
-
+/* */
+#discord_icon #hoverArea { stroke: #cbccff6e; }
+#github_icon #hoverArea { stroke: #cbccff6e; }
+#instergram_icon #hoverArea { stroke: #cbccff6e; }
+#mail_icon #hoverArea { stroke: #cbccff6e; }
+/* */
 #discord_icon:hover #hoverArea {
     stroke: #af92ff;
 }
 
-#github_icon:hover #hoverArea{
+#github_icon:hover #hoverArea {
     stroke: #e39dff;
 }
 
-#instergram_icon:hover #hoverArea{
+#instergram_icon:hover #hoverArea {
     stroke: #ff9bee;
 }
 
-#mail_icon:hover #hoverArea{
+#mail_icon:hover #hoverArea {
     stroke: #ff8aa3;
 }
