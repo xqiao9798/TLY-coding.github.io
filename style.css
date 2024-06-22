@@ -107,7 +107,7 @@ body{
     background: #b195ffcb;
     position: absolute;
     left: 800px;
-    top: 200px;
+    top: 150px;
     margin-left:-350px;
     margin-top:-200px;
 
@@ -117,7 +117,7 @@ body{
 }
 
 .dataword {
-    letter-spacing: 10px;
-    color: #12133b;
+    letter-spacing: 5px;
+    color: #1d1e5a;
     font-size: 20px;
 }
