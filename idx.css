@@ -45,3 +45,14 @@ body{
     align-items: center;
     font-family: 'DFKai-sb';
 }
+.slidelink-now{
+    background-color: rgba(144, 125, 255, 0.493);
+    height: 55px;
+    width: 270px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'DFKai-sb';
+    font-size: 20px;
+}
