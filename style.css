@@ -67,14 +67,14 @@ body{
 #discord_link{
     position:  absolute;
     top: 180px;
-    left: 65px;
+    left: 60px;
     display: inline-block;
 }
 
 #github_link{
     position: absolute;
     top: 180px;
-    left: 130px;
+    left: 120px;
     display: inline-block;
 
 }
@@ -82,14 +82,14 @@ body{
 #instergram_link{
     position: absolute;
     top: 180px;
-    left: 195px;
+    left: 180px;
     display: inline-block;
 }
 
 #mail_link{
     position:  absolute;
     top: 180px;
-    left: 260px;
+    left: 240px;
     display: inline-block;
 }
 
