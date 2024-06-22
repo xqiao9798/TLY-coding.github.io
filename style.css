@@ -24,14 +24,15 @@ body{
     position: absolute;
     left: 50px;
     top:50px;
+    border-radius: 10px;
 }
 #name{
     font-size: 40px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(178, 203, 255);
     position: absolute;
-    left: 55px;
-    top:200px;
+    left: 200px;
+    top: 90px;
     letter-spacing: 15px;
 }
 
@@ -42,31 +43,31 @@ body{
 
 #discord_link{
     position:  absolute;
-    top:100px;
-    left:200px;
+    top: 200px;
+    left: 50px;
     display: inline-block;
 }
 
 #github_link{
     position: absolute;
-    top:100px;
-    left:255px;
+    top: 200px;
+    left: 100px;
     display: inline-block;
 
 }
 
 #instergram_link{
     position: absolute;
-    top:165px;
-    left:200px;
+    top: 200px;
+    left: 150px;
     display: inline-block;
 }
 
 
 #mail_link{
     position:  absolute;
-    top:165px;
-    left:255px;
+    top: 200px;
+    left: 200px;
     display: inline-block;
 }
 
