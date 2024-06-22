@@ -155,7 +155,7 @@ body{
     left: 1020px;
     top: 210px;
     margin-left:-350px;
-    margin-top:-200px;
+    margin-top:-50px;
 
     user-select:none; /* standard syntax */
     -webkit-user-select:none; /* for Chrome、Safari */
