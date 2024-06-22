@@ -75,17 +75,17 @@ body{
 }
 
 #discord_icon:hover #hoverArea {
-    stroke: #ff92d2;
+    stroke: #af92ff;
 }
 
 #github_icon:hover #hoverArea{
-    stroke: #6234ac;
+    stroke: #e39dff;
 }
 
 #instergram_icon:hover #hoverArea{
-    stroke: #9bf0ff;
+    stroke: #ff9bee;
 }
 
 #mail_icon:hover #hoverArea{
-    stroke: #bd8aff;
+    stroke: #ff8aa3;
 }
