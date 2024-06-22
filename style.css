@@ -40,7 +40,7 @@ body{
     letter-spacing: 20px;
 }
 
-#discord_icon,#github_icon,#instergram_icon,#mail_icon{
+#discord_icon,#github_icon,#instergram_icon,#facebook_icon,#mail_icon{
     width: 30px;
     height: 30px;
 }
@@ -67,11 +67,17 @@ body{
     display: inline-block;
 }
 
+#facebook_link{
+    position: absolute;
+    top: 180px;
+    left: 240px;
+    display: inline-block;
+}
 
 #mail_link{
     position:  absolute;
     top: 180px;
-    left: 240px;
+    left: 300px;
     display: inline-block;
 }
 
@@ -81,6 +87,7 @@ body{
 /* */
 #discord_icon #hoverArea { stroke: #cbccff6e; }
 #github_icon #hoverArea { stroke: #cbccff6e; }
+#facebook_icon #hoverArea { stroke: #cbccff6e; }
 #instergram_icon #hoverArea { stroke: #cbccff6e; }
 #mail_icon #hoverArea { stroke: #cbccff6e; }
 /* */
@@ -90,6 +97,10 @@ body{
 
 #github_icon:hover #hoverArea {
     stroke: #e39dff;
+}
+
+#facebook_icon:hover #hoverArea {
+    stroke: #748eff;
 }
 
 #instergram_icon:hover #hoverArea {
