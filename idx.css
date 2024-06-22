@@ -8,7 +8,7 @@ body{
 #slide{
     /* background-color: rgba(144, 125, 255, 0.164); */
     height: 455px;
-    width: 270px;
+    width: 200px;
     border-radius: 10px;
     float: left;
     margin-left: 0px;
@@ -16,7 +16,7 @@ body{
 .slidelink{
     background-color: rgba(144, 125, 255, 0.089);
     height: 55px;
-    width: 270px;
+    width: 200px;
     border-radius: 10px;
     display: flex;
     justify-content: center;
@@ -26,7 +26,7 @@ body{
 }
 .slidelink:hover{
     background-color: rgba(144, 125, 255, 0.493);
-    width: 300px;
+    width: 230px;
 }
 #slideicon{
     border-radius:50%;
@@ -45,14 +45,7 @@ body{
     align-items: center;
     font-family: 'DFKai-sb';
 }
-.slidelink-now{
+.slidenow{
     background-color: rgba(144, 125, 255, 0.493);
-    height: 55px;
-    width: 270px;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: 'DFKai-sb';
-    font-size: 20px;
+    width: 230px;
 }
