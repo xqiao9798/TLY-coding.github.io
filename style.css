@@ -1,6 +1,16 @@
-a{
-    text-decoration: none; /*去掉連結底線*/
+@font-face {
+    font-family: 'caveat';
+    src: url('font/Caveat/Caveat-VariableFont_wght.ttf');
 }
+@font-face {
+    font-family: 'lxgw';
+    src: url('font/LXGW_WenKai_Mono_TC/LXGWWenKaiMonoTC-Regular.ttf');
+}
+@font-face {
+    font-family: 'playwrite';
+    src: url('font/Playwrite_AU_TAS/PlaywriteAUTAS-VariableFont_wght.ttf');
+}
+a{ text-decoration: none; }
 
 body{
     background-color: #22296b;
@@ -32,7 +42,7 @@ body{
 }
 #name{
     font-size: 50px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'caveat';
     color: rgb(178, 203, 255);
     position: absolute;
     left: 200px;
@@ -121,4 +131,5 @@ body{
     color: #1d1e5a;
     font-size: 20px;
     margin-left: 10px;
+    font-family: 'playwrite', 'lxgw';
 }
