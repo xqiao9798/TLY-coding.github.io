@@ -126,9 +126,9 @@ body{
     background: #b195ffcb;
     position: absolute;
     left: 720px;
-    top: 210px;
+    top: 175px;
     margin-left:-350px;
-    margin-top:-200px;
+    margin-top:-165px;
 
     user-select:none; /* standard syntax */
     -webkit-user-select:none; /* for Chrome、Safari */
@@ -146,16 +146,16 @@ body{
 
 
 .school{
-    width: 700px;
-    height: 100px;
+    width: 280px;
+    height: 230px;
     flex-shrink: 0;
     border-radius: 10px;
     background: #95e1ffcb;
     position: absolute;
-    left: 1020px;
-    top: 210px;
-    margin-left:-350px;
-    margin-top:-50px;
+    left: 1220px;
+    top: 175px;
+    margin-left:-140px;
+    margin-top:-165px;
 
     user-select:none; /* standard syntax */
     -webkit-user-select:none; /* for Chrome、Safari */
@@ -165,6 +165,13 @@ body{
 }
 
 .schoolword {
+    letter-spacing: 5px;
+    color: #1a2b5a;
+    font-size: 15px;
+    margin-left: 25px;
+    font-family: 'lxgw';
+}
+.schooltitle {
     letter-spacing: 5px;
     color: #1a2b5a;
     font-size: 20px;
