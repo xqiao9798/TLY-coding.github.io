@@ -17,6 +17,10 @@ body{
     top: 150px;
     margin-left:-175px;
     margin-top:-140px;
+
+    user-select:none; /* standard syntax */
+    -webkit-user-select:none; /* for Chrome、Safari */
+    -moz-user-select:none;  /* for Mozilla、Firefox */
 }
 #avatar{
     width: 130px;
@@ -39,6 +43,7 @@ body{
 #discord_icon,#github_icon,#instergram_icon,#youtube_icon,#mail_icon,#shoting_icon{
     width: 30px;
     height: 30px;
+    stroke: #5d7aa1;
 }
 
 #discord_link{
