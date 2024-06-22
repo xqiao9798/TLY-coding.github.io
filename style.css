@@ -7,7 +7,7 @@ body{
 }
 
 .box{
-    width: 400px;
+    width: 300px;
     height: 280px;
     flex-shrink: 0;
     border-radius: 10px; /*原角*/
@@ -15,7 +15,7 @@ body{
     position: absolute;
     left: 210px;
     top: 150px;
-    margin-left:-200px;
+    margin-left:-150px;
     margin-top:-140px;
 }
 #avatar{
@@ -27,12 +27,12 @@ body{
 }
 #name{
     font-size: 40px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(178, 203, 255);
     position: absolute;
     left: 55px;
     top:200px;
-    letter-spacing: 25px; /* 將字元間的間距設置為 2 像素 */
+    letter-spacing: 15px;
 }
 
 #discord_icon,#github_icon,#instergram_icon,#youtube_icon,#mail_icon,#shoting_icon{
